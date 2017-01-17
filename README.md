@@ -1,8 +1,8 @@
 # PageRankMatlab
-Application for PageRank Algorithm.
-Every file is connected under info.m. You must open it in matlab editor and run it.
+	Application for PageRank Algorithm.
+	Every file is connected under info.m. You must open it in matlab editor and run it.
 
-It will open a GUIDE window that contains 4 frames. 
+	It will open a GUIDE window that contains 4 frames. 
 
 -first(left) lets you modify the matrix's details ( dimension, density and algorithm's tolerance);
 
@@ -14,8 +14,8 @@ It will open a GUIDE window that contains 4 frames.
 
 
 
-There are 1000 html pages(auto-generated), and 500 tags in both romanian and english.
+	There are 1000 html pages(auto-generated), and 500 tags in both romanian and english.
 
-Here are a few examples of tags: 
+	Here are a few examples of tags: 
 
 matlab, day, child, circle, clear, correct, difference, month, mouth, edge, minute, luni, mare, lume, inversa, sesiune, examen, examene;
